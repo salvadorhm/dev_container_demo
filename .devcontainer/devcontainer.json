@@ -1,0 +1,6 @@
+{
+  "name": "demo_dev_container",
+  "image": "mcr.microsoft.com/devcontainers/base:ubuntu",  
+  "features": {
+  }
+}
